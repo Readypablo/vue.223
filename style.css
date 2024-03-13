@@ -1,0 +1,17 @@
+.produkt_table{
+   display: flex;
+   justify-content: center;
+}
+.img{
+    width: 400px;
+    height: 300px;
+}
+
+.prod_card{
+    border: 2px solid green;
+    width: 600px;
+    height: auto;
+    margin: 50px;
+    font-size: 25px;
+    text-align: center;
+}
